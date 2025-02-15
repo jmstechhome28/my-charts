@@ -3,12 +3,12 @@ entries:
   springapp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-02-15T02:44:32.452743354Z"
+    created: "2025-02-15T02:51:34.135501023Z"
     description: A Helm chart for Pacman
     digest: df705face6b3cadd6610f92f0276c54f781d2cbc39ab3078a0bad10ad9a83db7
     name: springapp
     type: application
     urls:
-    - git@github.com:jmstechhome28/my-charts/springapp-0.1.0.tgz
+    - https://jmstechhome28.github.io/my-charts/springapp-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-15T02:44:32.45249093Z"
+generated: "2025-02-15T02:51:34.135249258Z"
